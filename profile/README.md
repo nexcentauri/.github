@@ -56,5 +56,5 @@ We use the best tools to deliver quality code.
 
 <div align="center">
   <p>Let's build something amazing together!</p>
-  <p>© 2026 Nexbir Software Solution</p>
+  <p>© 2026 nexbit Software Solution</p>
 </div>
