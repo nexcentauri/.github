@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/jk2DB0BX/Whats-App-Image-2026-01-25-at-12-50-32-PM-removebg-preview.png" width="300" height="300" />
+  <img src="https://i.ibb.co/wNDMpW7F/Whats-App-Image-2026-01-28-at-6-02-46-PM-removebg-preview.png" width="300" height="300" />
   
   # nexbit Software Solution
   
