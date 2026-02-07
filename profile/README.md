@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/wNDMpW7F/Whats-App-Image-2026-01-28-at-6-02-46-PM-removebg-preview.png" width="300" height="300" />
+  <img src="https://i.ibb.co/VpHWDjgX/Nexcentauri01.png" width="300" height="300" />
   
-  # nexbit Software Solution
+  # NEXCENTAURI
   
   **Innovative Software Solutions for Web, Mobile & Desktop**
   
@@ -13,7 +13,7 @@
 </div>
 
 ### 🚀 About Us
-Welcome to **nexbit Software Solution**. We are a dedicated team of software engineers passionate about building robust, scalable, and user-friendly applications. We specialize in transforming complex business requirements into seamless digital experiences.
+Welcome to **NEXCENTAURI**. We are a dedicated team of software engineers passionate about building robust, scalable, and user-friendly applications. We specialize in transforming complex business requirements into seamless digital experiences.
 
 ### 🛠 Our Expertise
 We provide full-cycle development services, focusing on performance and modern UI/UX.
@@ -56,5 +56,5 @@ We use the best tools to deliver quality code.
 
 <div align="center">
   <p>Let's build something amazing together!</p>
-  <p>© 2026 nexbit Software Solution</p>
+  <p>© 2026 nexcentauri</p>
 </div>
