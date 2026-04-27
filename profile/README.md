@@ -1,8 +1,8 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/VpHWDjgX/Nexcentauri01.png" width="300" height="300" />
+  <img src="https://i.ibb.co/23g1x6KK/669941625-122112362433248006-1244500934152444687-n.jpg" width="100%" height="300" />
   
-  # NEXCENTAURI
+ <img src="https://i.ibb.co/WNHb8WQL/logo2.png" width="40%" height="10%" />
   
   **Innovative Software Solutions for Web, Mobile & Desktop**
   
