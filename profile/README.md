@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.ibb.co/23g1x6KK/669941625-122112362433248006-1244500934152444687-n.jpg" width="100%" height="300" />
+  <img src="https://i.ibb.co/rRbc0px8/Whats-App-Image-2026-05-05-at-1-01-24-PM.jpg" width="100%" height="300" />
   
  <img src="https://i.ibb.co/WNHb8WQL/logo2.png" width="40%" height="10%" />
   
